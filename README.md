@@ -5,6 +5,7 @@ Mentor Quest is an intuitive and user-friendly career counseling platform design
 
 
 ## Live link
+![mentor-quest-readme](https://github.com/user-attachments/assets/b1a11fd8-ccdc-4b91-8e98-b5fdba04a66d)
 
 - ## [https://mentor-quest-habib.netlify.app](https://mentor-quest-habib.netlify.app)
 
